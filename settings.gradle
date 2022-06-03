@@ -1,0 +1,2 @@
+rootProject.name='cusom_pop_up_with_icon'
+include ':app'
